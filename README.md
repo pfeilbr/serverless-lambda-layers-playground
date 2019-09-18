@@ -22,6 +22,8 @@ npm run sls -- invoke --function hello --log
 
 ![](https://www.evernote.com/l/AAFsMFGUI8dB5LcruXVZSdIMEVGMsxFDoE4B/image.png)
 
+![](https://www.evernote.com/l/AAEMx_FKalVN8YYr1pF_9gpeC_vlpaAkNVAB/image.png)
+
 ## Resources
 
 * [serverless docs | AWS - Layers](https://serverless.com/framework/docs/providers/aws/guide/layers/)
